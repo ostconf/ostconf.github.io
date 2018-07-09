@@ -1,2 +1,6 @@
 theme: jekyll-theme-modernist
 title: OSTCtool for iOS
+
+github:
+  is_project_page: false
+
