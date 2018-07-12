@@ -1,6 +1,11 @@
 theme: jekyll-theme-cayman
 title: OSTCtool for iOS
+description: Configure your OSTC dive computer
+show_downloads: true
 
 github:
   is_project_page: false
+
+appstore:
+  url: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1404182943&mt=8
 
