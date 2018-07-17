@@ -40,6 +40,10 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 2.  Sometimes the app is not able to connect to the device even if the device was discovered. Often, it helps to press the Scan button again.
 3.  After a firmware update and reboot of the OSTC no connection can be established. Workaround: just restart the app.
 
+## Feedback, Bug reports, Comments
+
+For feedback, bug reports etc. please use the [HW forum](http://forum.heinrichsweikamp.com/list.php?6) or send an email to `ostctool at gmail dot com`.
+
 ## Version history
 
 * * *
