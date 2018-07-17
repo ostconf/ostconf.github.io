@@ -42,6 +42,8 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 
 ## Feedback, Bug reports, Comments
 
+* * *
+
 For feedback, bug reports etc. please use the [HW forum](http://forum.heinrichsweikamp.com/list.php?6) or send an email to `ostctool at gmail dot com`.
 
 ## Version history
