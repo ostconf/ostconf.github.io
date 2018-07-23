@@ -1,5 +1,5 @@
  ![AppIcon](/img/AppIcon.png){:style="float: left;margin-right: 20px;margin-top: 30px"}
-OSTCtool is an application for configuring your OSTC dive computer. It allows you to read 
+OSTConf is an application for configuring your OSTC dive computer. It allows you to read 
 and modify settings and parameters of dive computers manufactured by 
 [heinrichs weikamp GmbH](http://www.heinrichsweikamp.com).
 
@@ -24,6 +24,7 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 *  Configure your device such as languages, color scheme, units, custom text, ...
 *  Set date and time with a single click
 *  Localized interface: english, german
+*  Backup and restore of all OSTC configuration parameters to/from iCloud drive (since 1.1)
 
 ## Requirements
 
@@ -44,10 +45,11 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 
 * * *
 
-For feedback, bug reports etc. please use the [HW forum](http://forum.heinrichsweikamp.com/list.php?6) or send an email to `ostctool at gmail dot com`.
+For feedback, bug reports etc. please use the [HW forum](http://forum.heinrichsweikamp.com/list.php?6) or send an email to `ostconf at gmail dot com`.
 
 ## Version history
 
 * * *
 
+*   1.1 [07/??/18]: Application name changed to OSTConf, backup/restore of configurations, more parameters, bugfixes.
 *   1.0 [07/10/18]: Initial AppStore version
