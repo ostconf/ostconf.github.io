@@ -11,7 +11,7 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 
 * * *
  
- ![AppIcon](/img/IMG_3087.PNG) ![AppIcon](/img/IMG_3088.PNG) ![AppIcon](/img/IMG_3089.PNG)
+ ![AppIcon](/img/IMG_3087.png) ![AppIcon](/img/IMG_3088.png) ![AppIcon](/img/IMG_3089.png)
 
 ## Features
 
