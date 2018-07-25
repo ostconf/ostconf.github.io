@@ -26,6 +26,13 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 *  Localized interface: english, german
 *  Backup and restore of all OSTC configuration parameters to/from iCloud drive (since 1.1)
 
+## Backup and Restore
+
+* * *
+
+You can use OSTConf for saving all parameter settings of your OSTC device to your iCloud drive. Sharing these backup files across multiple devices requires that you have enabled iCloud support on your Apple device(s). Later you can restore all settings from a backup files. 
+On the Backup/Restore page of OSTConf you can also delete (left swipe) these files or even rename it (long tap). However, this is also possible using the "Files" app or on any other Apple device connected to your iCloud drive.
+
 ## Requirements
 
 * * *
@@ -37,9 +44,10 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 
 * * *
 
-1.  ~~Not all OSTC settings are supported yet, but this will change.~~
-2.  ~~Sometimes the app is not able to connect to the device even if the device was discovered. Often, it helps to press the Scan button again.~~
-3.  ~~After a firmware update and reboot of the OSTC no connection can be established. Workaround: just restart the app.~~
+1. OSTC4 not fully supported yet (firmware update, OSTC4-specific settings).
+2.  ~~Not all OSTC settings are supported yet, but this will change.~~
+3.  ~~Sometimes the app is not able to connect to the device even if the device was discovered. Often, it helps to press the Scan button again.~~
+4.  ~~After a firmware update and reboot of the OSTC no connection can be established. Workaround: just restart the app.~~
 
 ## Feedback, Bug reports, Comments
 
