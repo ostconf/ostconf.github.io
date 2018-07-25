@@ -1,1 +1,1 @@
-# OSTCtool
+# OSTConf
