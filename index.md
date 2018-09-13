@@ -17,9 +17,9 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 
 * * *
  
-*  Update the firmware of your OSTC dive computer (both Tech and Sport)
-*  Compatible with recent Bluetooth-capable OSTC dive computers such as OSTC 2, OSTC plus, and OSTC TR
-*  Set up your gas mixes
+*  Update the firmware of your OSTC dive computer (Tech, Sport, and OSTC4)
+*  Compatible with recent Bluetooth-capable OSTC dive computers such as OSTC 2, OSTC plus, OSTC TR, OSTC 4
+*  Set up your gas mixes and tank parameters
 *  Modify deco parameters (model, ppO2, gradient factors, etc.)
 *  Configure your device such as languages, color scheme, units, custom text, ...
 *  Set date and time with a single click
@@ -44,8 +44,8 @@ On the Backup/Restore page of OSTConf you can also delete (left swipe) these fil
 
 * * *
 
-1. Firmware upload fails on some OSTC devices - will be (hopefully) fixed in version 1.1.2.
-2. OSTC4 not fully supported yet (firmware update, OSTC4-specific settings).
+1. ~~Firmware upload fails on some OSTC devices - will be (hopefully) fixed in version 1.1.2.~~
+2. ~~OSTC4 not fully supported yet (firmware update, OSTC4-specific settings).~~
 3.  ~~Not all OSTC settings are supported yet, but this will change.~~
 5.  ~~Sometimes the app is not able to connect to the device even if the device was discovered. Often, it helps to press the Scan button again.~~
 5.  ~~After a firmware update and reboot of the OSTC no connection can be established. Workaround: just restart the app.~~
@@ -60,6 +60,7 @@ For feedback, bug reports etc. please use the [HW forum](http://forum.heinrichsw
 
 * * *
 
+*   1.2 [09/??/18]: Bugfix for firmware update problem, tank parameters, light mode, OSTC4 support.
 *   1.1.1 [07/28/18]: Bugfix which causes crash with hwOS Sport version
 *   1.1 [07/25/18]: Application name changed to OSTConf, backup/restore of configurations, more parameters, bugfixes.
 *   1.0 [07/10/18]: Initial AppStore version
