@@ -26,6 +26,20 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 *  Localized interface: english, german
 *  Backup and restore of all OSTC configuration parameters to/from iCloud drive (since 1.1)
 
+## Firmware Update
+
+* * *
+
+### OSTC 2, 3, plus etc.
+
+In previous versions of the app some users had problems with updating the firmware. This problem is solved now by skipping 
+the "Verify" step which is actually not necessary: the OSTC will neither install a corrupt firmware file. However, you 
+still can enable "Verify" in the settings.
+
+### OSTC 4
+
+The OSTC4 firmware consists of three different parts (firmware, RTE, fonts). In each update step only one part is updated. Thus, you have to execute the update up to three times - a dialog shows the details.
+
 ## Backup and Restore
 
 * * *
@@ -33,6 +47,12 @@ custom text, set up your gas mixes and deco parameters as well as upgrading the 
 You can use OSTConf for saving all parameter settings of your OSTC device to your iCloud drive. Sharing these backup files across multiple devices requires that you have enabled iCloud support on your Apple device(s). Later you can restore all settings from a backup files. 
 On the Backup/Restore page of OSTConf you can also delete (left swipe) these files or even rename it (long tap). However, this is also possible using the "Files" app or on any other Apple device connected to your iCloud drive.
 
+## App Settings
+
+* * *
+
+If you don't like the black mode of the app (i.e. white/blue fonts on black background) then enable the light mode (black on light background) in the settings.
+ 
 ## Requirements
 
 * * *
