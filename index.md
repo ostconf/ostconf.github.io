@@ -80,7 +80,7 @@ For feedback, bug reports etc. please use the [HW forum](http://forum.heinrichsw
 
 * * *
 
-*   1.2 [09/??/18]: Bugfix for firmware update problem, tank parameters, light mode, OSTC4 support.
+*   1.2 [09/16/18]: Bugfix for firmware update problem, tank parameters, light mode, OSTC4 support.
 *   1.1.1 [07/28/18]: Bugfix which causes crash with hwOS Sport version
 *   1.1 [07/25/18]: Application name changed to OSTConf, backup/restore of configurations, more parameters, bugfixes.
 *   1.0 [07/10/18]: Initial AppStore version
