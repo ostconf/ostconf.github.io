@@ -51,13 +51,13 @@ On the Backup/Restore page of OSTConf you can also delete (left swipe) these fil
 
 * * *
 
-If you don't like the black mode of the app (i.e. white/blue fonts on black background) then enable the light mode (black on light background) in the settings.
+If you don't like the standard mode of the app then just use the dark mode of your iOS device.
  
 ## Requirements
 
 * * *
 
-*  iOS device such as iPhone or iPad running iOS 11
+*  iOS device such as iPhone or iPad running iOS 13
 *  Bluetooth capable OSTC (no USB, sorry)
 
 ## Known issues
@@ -74,12 +74,13 @@ If you don't like the black mode of the app (i.e. white/blue fonts on black back
 
 * * *
 
-For feedback, bug reports etc. please use the [HW forum](http://forum.heinrichsweikamp.com/list.php?6) or send an email to `ostconf at gmail dot com`.
+For feedback, bug reports etc. please use the [HW forum](http://forum.heinrichsweikamp.com/) or send an email to `ostconf at gmail dot com`.
 
 ## Version history
 
 * * *
 
+*   1.2.5 [05/27/20]: Bugfix for connection problems with some OSTCs, native dark mode.
 *   1.2 [09/16/18]: Bugfix for firmware update problem, tank parameters, light mode, OSTC4 support.
 *   1.1.1 [07/28/18]: Bugfix which causes crash with hwOS Sport version
 *   1.1 [07/25/18]: Application name changed to OSTConf, backup/restore of configurations, more parameters, bugfixes.
